@@ -334,7 +334,22 @@ for i in word.split():
                  count+=1
      
 print(count)
-     
+
+#Clean the given data 
+
+messy="968-Maria, (D@t@ Engineer);; 27Y "
+clean=messy.strip().replace("@","a").replace("(","").replace(")","").replace(";","")
+parts=clean.split()
+print(parts)
+name=parts[0].split("-")[1].replace(",","")
+print(name)
+role=parts[1]+" "+parts[2]
+print(role)
+age=parts[3].replace("Y","")
+print(age)
+
+
+print(f"name:{name} | role:{role} | age:{age}")
 
 
 
