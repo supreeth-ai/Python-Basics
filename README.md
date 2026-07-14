@@ -5,3 +5,7 @@ Python Fundamental Practice
 - Day 1: Variables and Data Types
 - Day 2: Operators and User Input
 - Day 3: Strings
+- Day 4: Conditions
+- Day 5: Loops
+- Day 6: Lists
+- Day 7: Functions
