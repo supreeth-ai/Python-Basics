@@ -9,5 +9,6 @@ Python Fundamental Practice
 - Day 5: Loops
 - Day 6: Lists
 - Day 7: Functions
+### Week 2 
 - Day 8: Tuples
 - Day 9: Sets
